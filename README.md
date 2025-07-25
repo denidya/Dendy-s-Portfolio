@@ -1,5 +1,5 @@
 # 🗺 Dendy's Portfolio
-Hi everyone, welcome to to my Portfolio! Here, i document all my project in data field.
+Hi everyone, welcome to my portfolio! This space serves as a living document of my journey and accomplishments in the data field. Dive into my projects, where I've utilized SQL and Python to unravel complex data challenges, identify critical user behaviors, and contribute to significant business improvements.
 
 ## 📚 Table of Content
 - [Data Analysis Research](#research-project)
