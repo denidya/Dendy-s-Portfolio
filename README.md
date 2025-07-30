@@ -12,7 +12,7 @@ Hi everyone, welcome to my portfolio! This space serves as a living document of 
 | Project Name | Research Date | Tools | Project Description |
 |---|---|---|---|
 | User RFM Segmentation | August 2024 | SQL (Exploratory Data Analysis), Python | By creating RFM Segmentation, i can specifically segmented user from Low retention user or churn user to Loyal Customer. by creating RFM research i help company to create more segmented marketing and reduce Marketing Cost. |
-| AHA Moment | November 2024 | SQL(Exploratory Data Analysis), Python | By performing AHA Moment, i kan understand user pain poin where user explore and use the Company Apps. after doing some AHA Moment analysis i can giving recommendation to company to fixing the journey in each product and the impact are active user increased by 23%. |
+| AHA Moment | November 2024 | SQL(Exploratory Data Analysis), Python | By performing AHA Moment, i can understand user pain poin where user explore and use the Company Apps. after doing some AHA Moment analysis i can giving recommendation to company to fixing the journey in each product and the impact are active user increased by 23%. |
 
 ***
 
