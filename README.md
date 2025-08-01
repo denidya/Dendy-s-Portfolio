@@ -30,7 +30,7 @@ Hi everyone, welcome to my portfolio! This space serves as a living document of 
 |---|---|---|
 | <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/0acdbb6d-d630-4649-8970-29a99b84f662" /> [Transaction Forecasting](https://github.com/denidya/forecast-transaction) | Programming | Forecast the transaction to know the predictive transaction happened in retail company. |
 | <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/4b8f1a6d-8079-4136-890a-28f882047517" /> [House Price Prediction](https://github.com/denidya/linear-regression) | EDA & Machine Learning Model | Analysis about the House Price based on house specification, discover most correlated feature and do linear regression to predict the house price. |
-| <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/2c689957-d9ba-4393-8938-d5e6609240fd" /> [COhort User Transaction](https://github.com/denidya/cohort-analysis) | Analysis | Discover insight about user retention, their activity and user churn. |
+| <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/2c689957-d9ba-4393-8938-d5e6609240fd" /> [Cohort User Transaction](https://github.com/denidya/cohort-analysis) | Analysis | Discover insight about user retention, their activity and user churn. |
 
 
 
